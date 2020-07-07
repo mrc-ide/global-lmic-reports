@@ -1,0 +1,818 @@
+[
+  {
+    "tt_beta": 0,
+    "beta_set": 0.0689,
+    "date": "2020-02-10",
+    "Rt": 3,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 5,
+    "beta_set": 0.0713,
+    "date": "2020-02-15",
+    "Rt": 3.1035,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 7,
+    "beta_set": 0.0744,
+    "date": "2020-02-17",
+    "Rt": 3.241,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 8,
+    "beta_set": 0.0725,
+    "date": "2020-02-18",
+    "Rt": 3.1551,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 9,
+    "beta_set": 0.0703,
+    "date": "2020-02-19",
+    "Rt": 3.0604,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 10,
+    "beta_set": 0.0677,
+    "date": "2020-02-20",
+    "Rt": 2.9483,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 11,
+    "beta_set": 0.0705,
+    "date": "2020-02-21",
+    "Rt": 3.069,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 12,
+    "beta_set": 0.0707,
+    "date": "2020-02-22",
+    "Rt": 3.0776,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 13,
+    "beta_set": 0.0705,
+    "date": "2020-02-23",
+    "Rt": 3.069,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 14,
+    "beta_set": 0.0742,
+    "date": "2020-02-24",
+    "Rt": 3.2324,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 15,
+    "beta_set": 0.0727,
+    "date": "2020-02-25",
+    "Rt": 3.1637,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 16,
+    "beta_set": 0.0709,
+    "date": "2020-02-26",
+    "Rt": 3.0862,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 17,
+    "beta_set": 0.0701,
+    "date": "2020-02-27",
+    "Rt": 3.0517,
+    "Meff": 2.3,
+    "grey_bar_start": true
+  },
+  {
+    "tt_beta": 18,
+    "beta_set": 0.0687,
+    "date": "2020-02-28",
+    "Rt": 2.9914,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 19,
+    "beta_set": 0.0677,
+    "date": "2020-02-29",
+    "Rt": 2.9483,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 20,
+    "beta_set": 0.0727,
+    "date": "2020-03-01",
+    "Rt": 3.1637,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 21,
+    "beta_set": 0.0754,
+    "date": "2020-03-02",
+    "Rt": 3.2838,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 22,
+    "beta_set": 0.0738,
+    "date": "2020-03-03",
+    "Rt": 3.2153,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 23,
+    "beta_set": 0.0715,
+    "date": "2020-03-04",
+    "Rt": 3.1121,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 24,
+    "beta_set": 0.0683,
+    "date": "2020-03-05",
+    "Rt": 2.9741,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 25,
+    "beta_set": 0.0663,
+    "date": "2020-03-06",
+    "Rt": 2.8879,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 26,
+    "beta_set": 0.0697,
+    "date": "2020-03-07",
+    "Rt": 3.0345,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 27,
+    "beta_set": 0.0729,
+    "date": "2020-03-08",
+    "Rt": 3.1723,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 28,
+    "beta_set": 0.0768,
+    "date": "2020-03-09",
+    "Rt": 3.3435,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 29,
+    "beta_set": 0.0748,
+    "date": "2020-03-10",
+    "Rt": 3.2581,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 30,
+    "beta_set": 0.0673,
+    "date": "2020-03-11",
+    "Rt": 2.931,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 31,
+    "beta_set": 0.0685,
+    "date": "2020-03-12",
+    "Rt": 2.9828,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 32,
+    "beta_set": 0.0719,
+    "date": "2020-03-13",
+    "Rt": 3.1293,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 33,
+    "beta_set": 0.0713,
+    "date": "2020-03-14",
+    "Rt": 3.1035,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 34,
+    "beta_set": 0.0701,
+    "date": "2020-03-15",
+    "Rt": 3.0517,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 35,
+    "beta_set": 0.0719,
+    "date": "2020-03-16",
+    "Rt": 3.1293,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 36,
+    "beta_set": 0.0681,
+    "date": "2020-03-17",
+    "Rt": 2.9655,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 37,
+    "beta_set": 0.0636,
+    "date": "2020-03-18",
+    "Rt": 2.7676,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 38,
+    "beta_set": 0.0593,
+    "date": "2020-03-19",
+    "Rt": 2.5801,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 39,
+    "beta_set": 0.0552,
+    "date": "2020-03-20",
+    "Rt": 2.4043,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 40,
+    "beta_set": 0.0524,
+    "date": "2020-03-21",
+    "Rt": 2.2811,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 41,
+    "beta_set": 0.0446,
+    "date": "2020-03-22",
+    "Rt": 1.9433,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 42,
+    "beta_set": 0.0317,
+    "date": "2020-03-23",
+    "Rt": 1.3809,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 43,
+    "beta_set": 0.0298,
+    "date": "2020-03-24",
+    "Rt": 1.2971,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 44,
+    "beta_set": 0.0278,
+    "date": "2020-03-25",
+    "Rt": 1.2116,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 45,
+    "beta_set": 0.0272,
+    "date": "2020-03-26",
+    "Rt": 1.184,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 46,
+    "beta_set": 0.0252,
+    "date": "2020-03-27",
+    "Rt": 1.099,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 47,
+    "beta_set": 0.0268,
+    "date": "2020-03-28",
+    "Rt": 1.1677,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 48,
+    "beta_set": 0.0293,
+    "date": "2020-03-29",
+    "Rt": 1.2739,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 49,
+    "beta_set": 0.0282,
+    "date": "2020-03-30",
+    "Rt": 1.2284,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 50,
+    "beta_set": 0.0273,
+    "date": "2020-03-31",
+    "Rt": 1.1895,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 51,
+    "beta_set": 0.028,
+    "date": "2020-04-01",
+    "Rt": 1.2172,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 52,
+    "beta_set": 0.0286,
+    "date": "2020-04-02",
+    "Rt": 1.2453,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 53,
+    "beta_set": 0.0274,
+    "date": "2020-04-03",
+    "Rt": 1.195,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 54,
+    "beta_set": 0.0295,
+    "date": "2020-04-04",
+    "Rt": 1.2855,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 55,
+    "beta_set": 0.0321,
+    "date": "2020-04-05",
+    "Rt": 1.3993,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 56,
+    "beta_set": 0.032,
+    "date": "2020-04-06",
+    "Rt": 1.3931,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 57,
+    "beta_set": 0.0312,
+    "date": "2020-04-07",
+    "Rt": 1.3566,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 58,
+    "beta_set": 0.0303,
+    "date": "2020-04-08",
+    "Rt": 1.3207,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 59,
+    "beta_set": 0.0293,
+    "date": "2020-04-09",
+    "Rt": 1.2739,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 61,
+    "beta_set": 0.031,
+    "date": "2020-04-11",
+    "Rt": 1.3505,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 62,
+    "beta_set": 0.0327,
+    "date": "2020-04-12",
+    "Rt": 1.4241,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 63,
+    "beta_set": 0.0324,
+    "date": "2020-04-13",
+    "Rt": 1.4117,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 64,
+    "beta_set": 0.0316,
+    "date": "2020-04-14",
+    "Rt": 1.3748,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 65,
+    "beta_set": 0.0333,
+    "date": "2020-04-15",
+    "Rt": 1.4492,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 66,
+    "beta_set": 0.0339,
+    "date": "2020-04-16",
+    "Rt": 1.4747,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 67,
+    "beta_set": 0.0312,
+    "date": "2020-04-17",
+    "Rt": 1.3566,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 68,
+    "beta_set": 0.0343,
+    "date": "2020-04-18",
+    "Rt": 1.4939,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 69,
+    "beta_set": 0.0375,
+    "date": "2020-04-19",
+    "Rt": 1.6335,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 70,
+    "beta_set": 0.037,
+    "date": "2020-04-20",
+    "Rt": 1.6131,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 71,
+    "beta_set": 0.0367,
+    "date": "2020-04-21",
+    "Rt": 1.5995,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 72,
+    "beta_set": 0.0366,
+    "date": "2020-04-22",
+    "Rt": 1.5928,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 73,
+    "beta_set": 0.0372,
+    "date": "2020-04-23",
+    "Rt": 1.6198,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 74,
+    "beta_set": 0.0355,
+    "date": "2020-04-24",
+    "Rt": 1.5462,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 75,
+    "beta_set": 0.032,
+    "date": "2020-04-25",
+    "Rt": 1.3931,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 76,
+    "beta_set": 0.034,
+    "date": "2020-04-26",
+    "Rt": 1.4811,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 77,
+    "beta_set": 0.0333,
+    "date": "2020-04-27",
+    "Rt": 1.4492,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 78,
+    "beta_set": 0.0342,
+    "date": "2020-04-28",
+    "Rt": 1.4875,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 79,
+    "beta_set": 0.034,
+    "date": "2020-04-29",
+    "Rt": 1.4811,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 80,
+    "beta_set": 0.0343,
+    "date": "2020-04-30",
+    "Rt": 1.4939,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 81,
+    "beta_set": 0.0291,
+    "date": "2020-05-01",
+    "Rt": 1.2682,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 82,
+    "beta_set": 0.0349,
+    "date": "2020-05-02",
+    "Rt": 1.5199,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 83,
+    "beta_set": 0.0374,
+    "date": "2020-05-03",
+    "Rt": 1.6267,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 85,
+    "beta_set": 0.0366,
+    "date": "2020-05-05",
+    "Rt": 1.5928,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 86,
+    "beta_set": 0.0377,
+    "date": "2020-05-06",
+    "Rt": 1.6403,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 87,
+    "beta_set": 0.0378,
+    "date": "2020-05-07",
+    "Rt": 1.6472,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 88,
+    "beta_set": 0.0354,
+    "date": "2020-05-08",
+    "Rt": 1.5396,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 89,
+    "beta_set": 0.0391,
+    "date": "2020-05-09",
+    "Rt": 1.7027,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 90,
+    "beta_set": 0.0417,
+    "date": "2020-05-10",
+    "Rt": 1.8171,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 91,
+    "beta_set": 0.0443,
+    "date": "2020-05-11",
+    "Rt": 1.9282,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 93,
+    "beta_set": 0.0439,
+    "date": "2020-05-13",
+    "Rt": 1.9132,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 95,
+    "beta_set": 0.0367,
+    "date": "2020-05-15",
+    "Rt": 1.5995,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 96,
+    "beta_set": 0.0389,
+    "date": "2020-05-16",
+    "Rt": 1.6957,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 97,
+    "beta_set": 0.0411,
+    "date": "2020-05-17",
+    "Rt": 1.7881,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 98,
+    "beta_set": 0.0515,
+    "date": "2020-05-18",
+    "Rt": 2.2406,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 99,
+    "beta_set": 0.0494,
+    "date": "2020-05-19",
+    "Rt": 2.1526,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 100,
+    "beta_set": 0.0489,
+    "date": "2020-05-20",
+    "Rt": 2.1288,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 101,
+    "beta_set": 0.0507,
+    "date": "2020-05-21",
+    "Rt": 2.2084,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 102,
+    "beta_set": 0.0478,
+    "date": "2020-05-22",
+    "Rt": 2.0817,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 103,
+    "beta_set": 0.0546,
+    "date": "2020-05-23",
+    "Rt": 2.3795,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 104,
+    "beta_set": 0.0441,
+    "date": "2020-05-24",
+    "Rt": 1.9207,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 105,
+    "beta_set": 0.0363,
+    "date": "2020-05-25",
+    "Rt": 1.5794,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 106,
+    "beta_set": 0.0372,
+    "date": "2020-05-26",
+    "Rt": 1.6198,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 107,
+    "beta_set": 0.0404,
+    "date": "2020-05-27",
+    "Rt": 1.7594,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 108,
+    "beta_set": 0.0471,
+    "date": "2020-05-28",
+    "Rt": 2.0505,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 109,
+    "beta_set": 0.045,
+    "date": "2020-05-29",
+    "Rt": 1.9584,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 110,
+    "beta_set": 0.0445,
+    "date": "2020-05-30",
+    "Rt": 1.9398,
+    "Meff": 2.3,
+    "grey_bar_start": false
+  }
+]

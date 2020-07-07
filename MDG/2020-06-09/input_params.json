@@ -1,0 +1,114 @@
+[
+  {
+    "tt_beta": 0,
+    "beta_set": 0.1248,
+    "date": "2020-03-24",
+    "Rt": 3,
+    "Meff": 2.9,
+    "grey_bar_start": true
+  },
+  {
+    "tt_beta": 1,
+    "beta_set": 0.0811,
+    "date": "2020-03-25",
+    "Rt": 1.9507,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 2,
+    "beta_set": 0.0817,
+    "date": "2020-03-26",
+    "Rt": 1.9635,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 4,
+    "beta_set": 0.0599,
+    "date": "2020-03-28",
+    "Rt": 1.4389,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 12,
+    "beta_set": 0.065,
+    "date": "2020-04-05",
+    "Rt": 1.5634,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 17,
+    "beta_set": 0.0685,
+    "date": "2020-04-10",
+    "Rt": 1.6458,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 25,
+    "beta_set": 0.0758,
+    "date": "2020-04-18",
+    "Rt": 1.8221,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 30,
+    "beta_set": 0.0842,
+    "date": "2020-04-23",
+    "Rt": 2.0237,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 35,
+    "beta_set": 0.083,
+    "date": "2020-04-28",
+    "Rt": 1.9956,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 40,
+    "beta_set": 0.0817,
+    "date": "2020-05-03",
+    "Rt": 1.9647,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 55,
+    "beta_set": 0.0824,
+    "date": "2020-05-18",
+    "Rt": 1.9799,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 59,
+    "beta_set": 0.0823,
+    "date": "2020-05-22",
+    "Rt": 1.9789,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 62,
+    "beta_set": 0.0818,
+    "date": "2020-05-25",
+    "Rt": 1.9677,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 63,
+    "beta_set": 0.0805,
+    "date": "2020-05-26",
+    "Rt": 1.936,
+    "Meff": 2.9,
+    "grey_bar_start": false
+  }
+]

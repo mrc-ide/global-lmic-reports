@@ -1,0 +1,12 @@
+[
+  {
+    "start_date": "2020-01-27",
+    "R0": 1.9315,
+    "Meff": 4.1014,
+    "Meff_pl": 8.8974,
+    "rhat_start_date": 1.0114,
+    "rhat_R0": 1.018,
+    "rhat_Meff": 1.0186,
+    "rhat_Meff_pl": 1.0182
+  }
+]

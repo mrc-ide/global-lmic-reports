@@ -1,0 +1,34 @@
+[
+  {
+    "tt_beta": 0,
+    "beta_set": 0.125,
+    "date": "2020-03-30",
+    "Rt": 3,
+    "Meff": 4.1,
+    "grey_bar_start": true
+  },
+  {
+    "tt_beta": 1,
+    "beta_set": 0.0761,
+    "date": "2020-03-31",
+    "Rt": 1.8252,
+    "Meff": 4.1,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 9,
+    "beta_set": 0.0778,
+    "date": "2020-04-08",
+    "Rt": 1.8658,
+    "Meff": 4.1,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 28,
+    "beta_set": 0.0748,
+    "date": "2020-04-27",
+    "Rt": 1.7948,
+    "Meff": 4.1,
+    "grey_bar_start": false
+  }
+]

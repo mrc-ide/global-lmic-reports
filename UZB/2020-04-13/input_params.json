@@ -1,0 +1,26 @@
+[
+  {
+    "tt_beta": 0,
+    "beta_set": 0.0769,
+    "date": "2020-02-27",
+    "Rt": 2.8,
+    "Meff": 0.1,
+    "grey_bar_start": false
+  },
+  {
+    "tt_beta": 4,
+    "beta_set": 0.0769,
+    "date": "2020-03-02",
+    "Rt": 2.8011,
+    "Meff": 0.1,
+    "grey_bar_start": true
+  },
+  {
+    "tt_beta": 50,
+    "beta_set": 0.0768,
+    "date": "2020-04-17",
+    "Rt": 2.7961,
+    "Meff": 0.1,
+    "grey_bar_start": false
+  }
+]
