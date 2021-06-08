@@ -17,7 +17,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 1,
@@ -37,7 +37,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 2,
@@ -57,7 +57,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 3,
@@ -77,7 +77,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 4,
@@ -97,7 +97,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 5,
@@ -117,7 +117,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 6,
@@ -137,7 +137,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 7,
@@ -157,7 +157,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 8,
@@ -177,7 +177,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 9,
@@ -197,7 +197,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 10,
@@ -217,7 +217,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 11,
@@ -237,7 +237,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 12,
@@ -257,7 +257,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 13,
@@ -277,7 +277,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 14,
@@ -297,7 +297,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 15,
@@ -317,7 +317,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 16,
@@ -337,7 +337,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 17,
@@ -357,7 +357,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 18,
@@ -377,7 +377,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 19,
@@ -397,7 +397,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 20,
@@ -417,7 +417,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 21,
@@ -437,7 +437,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 22,
@@ -457,7 +457,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 23,
@@ -477,7 +477,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 24,
@@ -497,7 +497,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 25,
@@ -517,7 +517,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 26,
@@ -537,7 +537,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 27,
@@ -557,7 +557,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 28,
@@ -577,7 +577,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 29,
@@ -597,7 +597,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 30,
@@ -617,7 +617,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 31,
@@ -637,7 +637,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 32,
@@ -657,7 +657,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 33,
@@ -677,7 +677,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 34,
@@ -697,7 +697,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 35,
@@ -717,7 +717,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 36,
@@ -737,7 +737,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 37,
@@ -757,7 +757,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 38,
@@ -777,7 +777,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 39,
@@ -797,7 +797,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 40,
@@ -817,7 +817,7 @@
     "vaccine_efficacy_disease": 0.8273,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 41,
@@ -837,7 +837,7 @@
     "vaccine_efficacy_disease": 0.8283,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 42,
@@ -850,7 +850,6 @@
     "beta_set_min": 0.0341,
     "beta_set_max": 0.04,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 1.7348,
     "iso3c": "KHM",
     "max_vaccine": 23170,
@@ -858,7 +857,8 @@
     "vaccine_efficacy_disease": 0.83,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 43,
@@ -871,7 +871,6 @@
     "beta_set_min": 0.0331,
     "beta_set_max": 0.0387,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.6628,
     "iso3c": "KHM",
     "max_vaccine": 18262,
@@ -879,7 +878,8 @@
     "vaccine_efficacy_disease": 0.8307,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 44,
@@ -892,7 +892,6 @@
     "beta_set_min": 0.032,
     "beta_set_max": 0.0379,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.5928,
     "iso3c": "KHM",
     "max_vaccine": 14825,
@@ -900,7 +899,8 @@
     "vaccine_efficacy_disease": 0.8312,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 45,
@@ -913,7 +913,6 @@
     "beta_set_min": 0.031,
     "beta_set_max": 0.0372,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.5417,
     "iso3c": "KHM",
     "max_vaccine": 8841,
@@ -921,7 +920,8 @@
     "vaccine_efficacy_disease": 0.8308,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 46,
@@ -934,7 +934,6 @@
     "beta_set_min": 0.0319,
     "beta_set_max": 0.0373,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.6014,
     "iso3c": "KHM",
     "max_vaccine": 6713,
@@ -942,7 +941,8 @@
     "vaccine_efficacy_disease": 0.8313,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 47,
@@ -955,7 +955,6 @@
     "beta_set_min": 0.0314,
     "beta_set_max": 0.0367,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.567,
     "iso3c": "KHM",
     "max_vaccine": 11565,
@@ -963,7 +962,8 @@
     "vaccine_efficacy_disease": 0.8363,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 48,
@@ -976,7 +976,6 @@
     "beta_set_min": 0.0317,
     "beta_set_max": 0.037,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.5927,
     "iso3c": "KHM",
     "max_vaccine": 10874,
@@ -984,7 +983,8 @@
     "vaccine_efficacy_disease": 0.8422,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 49,
@@ -997,7 +997,6 @@
     "beta_set_min": 0.0316,
     "beta_set_max": 0.0368,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.584,
     "iso3c": "KHM",
     "max_vaccine": 4394,
@@ -1005,7 +1004,8 @@
     "vaccine_efficacy_disease": 0.8466,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 50,
@@ -1018,7 +1018,6 @@
     "beta_set_min": 0.0314,
     "beta_set_max": 0.0365,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 1.5688,
     "iso3c": "KHM",
     "max_vaccine": 4394,
@@ -1026,7 +1025,8 @@
     "vaccine_efficacy_disease": 0.8507,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 51,
@@ -1039,7 +1039,6 @@
     "beta_set_min": 0.0309,
     "beta_set_max": 0.0359,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.5349,
     "iso3c": "KHM",
     "max_vaccine": 4774,
@@ -1047,7 +1046,8 @@
     "vaccine_efficacy_disease": 0.853,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 52,
@@ -1060,7 +1060,6 @@
     "beta_set_min": 0.0303,
     "beta_set_max": 0.0351,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 1.4933,
     "iso3c": "KHM",
     "max_vaccine": 1668,
@@ -1068,7 +1067,8 @@
     "vaccine_efficacy_disease": 0.8544,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 53,
@@ -1081,7 +1081,6 @@
     "beta_set_min": 0.0304,
     "beta_set_max": 0.0353,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 1.5015,
     "iso3c": "KHM",
     "max_vaccine": 4712,
@@ -1089,7 +1088,8 @@
     "vaccine_efficacy_disease": 0.8557,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 54,
@@ -1102,7 +1102,6 @@
     "beta_set_min": 0.0299,
     "beta_set_max": 0.0347,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 1.4687,
     "iso3c": "KHM",
     "max_vaccine": 5910,
@@ -1110,7 +1109,8 @@
     "vaccine_efficacy_disease": 0.8569,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 55,
@@ -1123,7 +1123,6 @@
     "beta_set_min": 0.0303,
     "beta_set_max": 0.0351,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.4931,
     "iso3c": "KHM",
     "max_vaccine": 7601,
@@ -1131,7 +1130,8 @@
     "vaccine_efficacy_disease": 0.8583,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 56,
@@ -1144,7 +1144,6 @@
     "beta_set_min": 0.0302,
     "beta_set_max": 0.0348,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.4849,
     "iso3c": "KHM",
     "max_vaccine": 12175,
@@ -1152,7 +1151,8 @@
     "vaccine_efficacy_disease": 0.8601,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 57,
@@ -1165,7 +1165,6 @@
     "beta_set_min": 0.0298,
     "beta_set_max": 0.0344,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.4604,
     "iso3c": "KHM",
     "max_vaccine": 12082,
@@ -1173,7 +1172,8 @@
     "vaccine_efficacy_disease": 0.8617,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 58,
@@ -1186,7 +1186,6 @@
     "beta_set_min": 0.0292,
     "beta_set_max": 0.0338,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.4282,
     "iso3c": "KHM",
     "max_vaccine": 9978,
@@ -1194,7 +1193,8 @@
     "vaccine_efficacy_disease": 0.8635,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 59,
@@ -1207,7 +1207,6 @@
     "beta_set_min": 0.0293,
     "beta_set_max": 0.0332,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.4361,
     "iso3c": "KHM",
     "max_vaccine": 7315,
@@ -1215,7 +1214,8 @@
     "vaccine_efficacy_disease": 0.8641,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 60,
@@ -1228,7 +1228,6 @@
     "beta_set_min": 0.0295,
     "beta_set_max": 0.0331,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 1.444,
     "iso3c": "KHM",
     "max_vaccine": 7994,
@@ -1236,7 +1235,8 @@
     "vaccine_efficacy_disease": 0.8648,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 61,
@@ -1249,7 +1249,6 @@
     "beta_set_min": 0.0291,
     "beta_set_max": 0.0328,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.4279,
     "iso3c": "KHM",
     "max_vaccine": 9210,
@@ -1257,7 +1256,8 @@
     "vaccine_efficacy_disease": 0.8651,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 62,
@@ -1270,7 +1270,6 @@
     "beta_set_min": 0.0299,
     "beta_set_max": 0.033,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.4762,
     "iso3c": "KHM",
     "max_vaccine": 6583,
@@ -1278,7 +1277,8 @@
     "vaccine_efficacy_disease": 0.8665,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 63,
@@ -1291,7 +1291,6 @@
     "beta_set_min": 0.0298,
     "beta_set_max": 0.0324,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.4679,
     "iso3c": "KHM",
     "max_vaccine": 22868,
@@ -1299,7 +1298,8 @@
     "vaccine_efficacy_disease": 0.8648,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 64,
@@ -1312,7 +1312,6 @@
     "beta_set_min": 0.0296,
     "beta_set_max": 0.0321,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.501,
     "iso3c": "KHM",
     "max_vaccine": 45739,
@@ -1320,7 +1319,8 @@
     "vaccine_efficacy_disease": 0.8612,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 65,
@@ -1333,7 +1333,6 @@
     "beta_set_min": 0.0292,
     "beta_set_max": 0.0315,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.4681,
     "iso3c": "KHM",
     "max_vaccine": 54079,
@@ -1341,7 +1340,8 @@
     "vaccine_efficacy_disease": 0.8573,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 66,
@@ -1354,7 +1354,6 @@
     "beta_set_min": 0.0292,
     "beta_set_max": 0.0314,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.4599,
     "iso3c": "KHM",
     "max_vaccine": 51656,
@@ -1362,7 +1361,8 @@
     "vaccine_efficacy_disease": 0.8539,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 67,
@@ -1375,7 +1375,6 @@
     "beta_set_min": 0.0301,
     "beta_set_max": 0.0327,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.5338,
     "iso3c": "KHM",
     "max_vaccine": 53653,
@@ -1383,7 +1382,8 @@
     "vaccine_efficacy_disease": 0.851,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 68,
@@ -1396,7 +1396,6 @@
     "beta_set_min": 0.0299,
     "beta_set_max": 0.0324,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 1.517,
     "iso3c": "KHM",
     "max_vaccine": 57325,
@@ -1404,7 +1403,8 @@
     "vaccine_efficacy_disease": 0.8482,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 69,
@@ -1417,7 +1417,6 @@
     "beta_set_min": 0.0297,
     "beta_set_max": 0.0321,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.5002,
     "iso3c": "KHM",
     "max_vaccine": 63957,
@@ -1425,7 +1424,8 @@
     "vaccine_efficacy_disease": 0.8454,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 70,
@@ -1438,7 +1438,6 @@
     "beta_set_min": 0.0298,
     "beta_set_max": 0.0324,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.5083,
     "iso3c": "KHM",
     "max_vaccine": 57300,
@@ -1446,7 +1445,8 @@
     "vaccine_efficacy_disease": 0.8433,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 71,
@@ -1459,7 +1459,6 @@
     "beta_set_min": 0.029,
     "beta_set_max": 0.0313,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.443,
     "iso3c": "KHM",
     "max_vaccine": 99345,
@@ -1467,7 +1466,8 @@
     "vaccine_efficacy_disease": 0.84,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 72,
@@ -1480,7 +1480,6 @@
     "beta_set_min": 0.0292,
     "beta_set_max": 0.0315,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.4589,
     "iso3c": "KHM",
     "max_vaccine": 58857,
@@ -1488,7 +1487,8 @@
     "vaccine_efficacy_disease": 0.8387,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 73,
@@ -1501,7 +1501,6 @@
     "beta_set_min": 0.0249,
     "beta_set_max": 0.0312,
     "recent_deaths": true,
-    "deaths": 4,
     "Reff": 1.4346,
     "iso3c": "KHM",
     "max_vaccine": 46577,
@@ -1509,7 +1508,8 @@
     "vaccine_efficacy_disease": 0.8375,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 4
   },
   {
     "tt_beta": 74,
@@ -1522,7 +1522,6 @@
     "beta_set_min": 0.0241,
     "beta_set_max": 0.0305,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.3871,
     "iso3c": "KHM",
     "max_vaccine": 81206,
@@ -1530,7 +1529,8 @@
     "vaccine_efficacy_disease": 0.8357,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 75,
@@ -1543,7 +1543,6 @@
     "beta_set_min": 0.0249,
     "beta_set_max": 0.0321,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.4826,
     "iso3c": "KHM",
     "max_vaccine": 70218,
@@ -1551,7 +1550,8 @@
     "vaccine_efficacy_disease": 0.8344,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 76,
@@ -1564,7 +1564,6 @@
     "beta_set_min": 0.0203,
     "beta_set_max": 0.0236,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.0377,
     "iso3c": "KHM",
     "max_vaccine": 33607,
@@ -1572,7 +1571,8 @@
     "vaccine_efficacy_disease": 0.8338,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 77,
@@ -1585,7 +1585,6 @@
     "beta_set_min": 0.0164,
     "beta_set_max": 0.0203,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 0.8234,
     "iso3c": "KHM",
     "max_vaccine": 19686,
@@ -1593,7 +1592,8 @@
     "vaccine_efficacy_disease": 0.8341,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 78,
@@ -1606,7 +1606,6 @@
     "beta_set_min": 0.0151,
     "beta_set_max": 0.0195,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 0.792,
     "iso3c": "KHM",
     "max_vaccine": 18625,
@@ -1614,7 +1613,8 @@
     "vaccine_efficacy_disease": 0.835,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 79,
@@ -1627,7 +1627,6 @@
     "beta_set_min": 0.0152,
     "beta_set_max": 0.0195,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 0.7968,
     "iso3c": "KHM",
     "max_vaccine": 11584,
@@ -1635,7 +1634,8 @@
     "vaccine_efficacy_disease": 0.8349,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 80,
@@ -1648,7 +1648,6 @@
     "beta_set_min": 0.0163,
     "beta_set_max": 0.0203,
     "recent_deaths": true,
-    "deaths": 4,
     "Reff": 0.8529,
     "iso3c": "KHM",
     "max_vaccine": 3683,
@@ -1656,7 +1655,8 @@
     "vaccine_efficacy_disease": 0.8349,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 4
   },
   {
     "tt_beta": 81,
@@ -1669,7 +1669,6 @@
     "beta_set_min": 0.016,
     "beta_set_max": 0.0201,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 0.8371,
     "iso3c": "KHM",
     "max_vaccine": 17632,
@@ -1677,7 +1676,8 @@
     "vaccine_efficacy_disease": 0.8414,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 82,
@@ -1690,7 +1690,6 @@
     "beta_set_min": 0.0165,
     "beta_set_max": 0.0204,
     "recent_deaths": true,
-    "deaths": 4,
     "Reff": 0.8632,
     "iso3c": "KHM",
     "max_vaccine": 2842,
@@ -1698,7 +1697,8 @@
     "vaccine_efficacy_disease": 0.8456,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 4
   },
   {
     "tt_beta": 83,
@@ -1711,7 +1711,6 @@
     "beta_set_min": 0.0163,
     "beta_set_max": 0.0203,
     "recent_deaths": true,
-    "deaths": 5,
     "Reff": 0.8526,
     "iso3c": "KHM",
     "max_vaccine": 2746,
@@ -1719,7 +1718,8 @@
     "vaccine_efficacy_disease": 0.8502,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 5
   },
   {
     "tt_beta": 84,
@@ -1732,7 +1732,6 @@
     "beta_set_min": 0.0155,
     "beta_set_max": 0.0193,
     "recent_deaths": true,
-    "deaths": 5,
     "Reff": 0.8114,
     "iso3c": "KHM",
     "max_vaccine": 972,
@@ -1740,7 +1739,8 @@
     "vaccine_efficacy_disease": 0.8551,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 5
   },
   {
     "tt_beta": 85,
@@ -1753,7 +1753,6 @@
     "beta_set_min": 0.016,
     "beta_set_max": 0.0196,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 0.8368,
     "iso3c": "KHM",
     "max_vaccine": 790,
@@ -1761,7 +1760,8 @@
     "vaccine_efficacy_disease": 0.8595,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 86,
@@ -1774,7 +1774,6 @@
     "beta_set_min": 0.0161,
     "beta_set_max": 0.0197,
     "recent_deaths": true,
-    "deaths": 10,
     "Reff": 0.8419,
     "iso3c": "KHM",
     "max_vaccine": 11778,
@@ -1782,7 +1781,8 @@
     "vaccine_efficacy_disease": 0.8623,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 10
   },
   {
     "tt_beta": 87,
@@ -1795,7 +1795,6 @@
     "beta_set_min": 0.0174,
     "beta_set_max": 0.0272,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 0.9062,
     "iso3c": "KHM",
     "max_vaccine": 1686,
@@ -1803,7 +1802,8 @@
     "vaccine_efficacy_disease": 0.865,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 88,
@@ -1816,7 +1816,6 @@
     "beta_set_min": 0.0156,
     "beta_set_max": 0.0257,
     "recent_deaths": true,
-    "deaths": 5,
     "Reff": 0.8161,
     "iso3c": "KHM",
     "max_vaccine": 313,
@@ -1824,7 +1823,8 @@
     "vaccine_efficacy_disease": 0.8675,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 5
   },
   {
     "tt_beta": 89,
@@ -1837,7 +1837,6 @@
     "beta_set_min": 0.0169,
     "beta_set_max": 0.0266,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 0.8733,
     "iso3c": "KHM",
     "max_vaccine": 2878,
@@ -1845,7 +1844,8 @@
     "vaccine_efficacy_disease": 0.8696,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 90,
@@ -1858,7 +1858,6 @@
     "beta_set_min": 0.0179,
     "beta_set_max": 0.0273,
     "recent_deaths": true,
-    "deaths": 6,
     "Reff": 0.9114,
     "iso3c": "KHM",
     "max_vaccine": 15291,
@@ -1866,7 +1865,8 @@
     "vaccine_efficacy_disease": 0.8715,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 6
   },
   {
     "tt_beta": 91,
@@ -1879,7 +1879,6 @@
     "beta_set_min": 0.0183,
     "beta_set_max": 0.0276,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 0.9282,
     "iso3c": "KHM",
     "max_vaccine": 15291,
@@ -1887,7 +1886,8 @@
     "vaccine_efficacy_disease": 0.8732,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 92,
@@ -1900,7 +1900,6 @@
     "beta_set_min": 0.0176,
     "beta_set_max": 0.0265,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.1047,
     "iso3c": "KHM",
     "max_vaccine": 10133,
@@ -1908,7 +1907,8 @@
     "vaccine_efficacy_disease": 0.8745,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 93,
@@ -1921,7 +1921,6 @@
     "beta_set_min": 0.019,
     "beta_set_max": 0.0272,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.1509,
     "iso3c": "KHM",
     "max_vaccine": 24254,
@@ -1929,7 +1928,8 @@
     "vaccine_efficacy_disease": 0.8749,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 94,
@@ -1942,7 +1942,6 @@
     "beta_set_min": 0.0221,
     "beta_set_max": 0.0291,
     "recent_deaths": true,
-    "deaths": 7,
     "Reff": 1.2845,
     "iso3c": "KHM",
     "max_vaccine": 58902,
@@ -1950,7 +1949,8 @@
     "vaccine_efficacy_disease": 0.8736,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 7
   },
   {
     "tt_beta": 95,
@@ -1963,7 +1963,6 @@
     "beta_set_min": 0.0217,
     "beta_set_max": 0.0287,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.2552,
     "iso3c": "KHM",
     "max_vaccine": 43263,
@@ -1971,7 +1970,8 @@
     "vaccine_efficacy_disease": 0.8732,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 96,
@@ -1984,7 +1984,6 @@
     "beta_set_min": 0.0257,
     "beta_set_max": 0.0288,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 1.2623,
     "iso3c": "KHM",
     "max_vaccine": 49462,
@@ -1992,7 +1991,8 @@
     "vaccine_efficacy_disease": 0.8727,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 97,
@@ -2005,7 +2005,6 @@
     "beta_set_min": 0.026,
     "beta_set_max": 0.0291,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.284,
     "iso3c": "KHM",
     "max_vaccine": 49845,
@@ -2013,7 +2012,8 @@
     "vaccine_efficacy_disease": 0.872,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 98,
@@ -2026,7 +2026,6 @@
     "beta_set_min": 0.0293,
     "beta_set_max": 0.0326,
     "recent_deaths": true,
-    "deaths": 4,
     "Reff": 1.5019,
     "iso3c": "KHM",
     "max_vaccine": 40715,
@@ -2034,7 +2033,8 @@
     "vaccine_efficacy_disease": 0.8724,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 4
   },
   {
     "tt_beta": 99,
@@ -2047,7 +2047,6 @@
     "beta_set_min": 0.0304,
     "beta_set_max": 0.0347,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.6116,
     "iso3c": "KHM",
     "max_vaccine": 57242,
@@ -2055,7 +2054,8 @@
     "vaccine_efficacy_disease": 0.8717,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 100,
@@ -2068,7 +2068,6 @@
     "beta_set_min": 0.0306,
     "beta_set_max": 0.0351,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.6287,
     "iso3c": "KHM",
     "max_vaccine": 55459,
@@ -2076,7 +2075,8 @@
     "vaccine_efficacy_disease": 0.8706,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 101,
@@ -2089,7 +2089,6 @@
     "beta_set_min": 0.0211,
     "beta_set_max": 0.0359,
     "recent_deaths": true,
-    "deaths": 6,
     "Reff": 1.6813,
     "iso3c": "KHM",
     "max_vaccine": 55286,
@@ -2097,7 +2096,8 @@
     "vaccine_efficacy_disease": 0.8693,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 6
   },
   {
     "tt_beta": 102,
@@ -2110,7 +2110,6 @@
     "beta_set_min": 0.0207,
     "beta_set_max": 0.0363,
     "recent_deaths": true,
-    "deaths": 6,
     "Reff": 1.6988,
     "iso3c": "KHM",
     "max_vaccine": 51494,
@@ -2118,7 +2117,8 @@
     "vaccine_efficacy_disease": 0.8683,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 6
   },
   {
     "tt_beta": 103,
@@ -2131,7 +2131,6 @@
     "beta_set_min": 0.0208,
     "beta_set_max": 0.0367,
     "recent_deaths": true,
-    "deaths": 5,
     "Reff": 1.7165,
     "iso3c": "KHM",
     "max_vaccine": 52352,
@@ -2139,7 +2138,8 @@
     "vaccine_efficacy_disease": 0.8674,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 5
   },
   {
     "tt_beta": 104,
@@ -2152,7 +2152,6 @@
     "beta_set_min": 0.0209,
     "beta_set_max": 0.0371,
     "recent_deaths": true,
-    "deaths": 5,
     "Reff": 1.7342,
     "iso3c": "KHM",
     "max_vaccine": 61933,
@@ -2160,7 +2159,8 @@
     "vaccine_efficacy_disease": 0.8662,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 5
   },
   {
     "tt_beta": 105,
@@ -2173,7 +2173,6 @@
     "beta_set_min": 0.0215,
     "beta_set_max": 0.0381,
     "recent_deaths": true,
-    "deaths": 6,
     "Reff": 1.7982,
     "iso3c": "KHM",
     "max_vaccine": 57002,
@@ -2181,7 +2180,8 @@
     "vaccine_efficacy_disease": 0.8653,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 6
   },
   {
     "tt_beta": 106,
@@ -2194,7 +2194,6 @@
     "beta_set_min": 0.0198,
     "beta_set_max": 0.0337,
     "recent_deaths": true,
-    "deaths": 5,
     "Reff": 1.0475,
     "iso3c": "KHM",
     "max_vaccine": 43480,
@@ -2202,7 +2201,8 @@
     "vaccine_efficacy_disease": 0.8645,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 5
   },
   {
     "tt_beta": 107,
@@ -2215,7 +2215,6 @@
     "beta_set_min": 0.0202,
     "beta_set_max": 0.0333,
     "recent_deaths": true,
-    "deaths": 0,
     "Reff": 1.0725,
     "iso3c": "KHM",
     "max_vaccine": 26558,
@@ -2223,7 +2222,8 @@
     "vaccine_efficacy_disease": 0.8643,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 0
   },
   {
     "tt_beta": 108,
@@ -2236,7 +2236,6 @@
     "beta_set_min": 0.0224,
     "beta_set_max": 0.0354,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.2552,
     "iso3c": "KHM",
     "max_vaccine": 15469,
@@ -2244,7 +2243,8 @@
     "vaccine_efficacy_disease": 0.8653,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 109,
@@ -2257,7 +2257,6 @@
     "beta_set_min": 0.0221,
     "beta_set_max": 0.0348,
     "recent_deaths": true,
-    "deaths": 4,
     "Reff": 1.2263,
     "iso3c": "KHM",
     "max_vaccine": 17869,
@@ -2265,7 +2264,8 @@
     "vaccine_efficacy_disease": 0.8666,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 4
   },
   {
     "tt_beta": 110,
@@ -2278,7 +2278,6 @@
     "beta_set_min": 0.0218,
     "beta_set_max": 0.0285,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.2049,
     "iso3c": "KHM",
     "max_vaccine": 32965,
@@ -2286,7 +2285,8 @@
     "vaccine_efficacy_disease": 0.8676,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 111,
@@ -2299,7 +2299,6 @@
     "beta_set_min": 0.0222,
     "beta_set_max": 0.0291,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.2327,
     "iso3c": "KHM",
     "max_vaccine": 35123,
@@ -2307,7 +2306,8 @@
     "vaccine_efficacy_disease": 0.8686,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 112,
@@ -2320,7 +2320,6 @@
     "beta_set_min": 0.0223,
     "beta_set_max": 0.0288,
     "recent_deaths": true,
-    "deaths": 5,
     "Reff": 1.2395,
     "iso3c": "KHM",
     "max_vaccine": 30308,
@@ -2328,7 +2327,8 @@
     "vaccine_efficacy_disease": 0.8698,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 5
   },
   {
     "tt_beta": 113,
@@ -2341,7 +2341,6 @@
     "beta_set_min": 0.0224,
     "beta_set_max": 0.029,
     "recent_deaths": true,
-    "deaths": 1,
     "Reff": 1.2534,
     "iso3c": "KHM",
     "max_vaccine": 27899,
@@ -2349,7 +2348,8 @@
     "vaccine_efficacy_disease": 0.8709,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 1
   },
   {
     "tt_beta": 114,
@@ -2362,7 +2362,6 @@
     "beta_set_min": 0.0226,
     "beta_set_max": 0.0293,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.2747,
     "iso3c": "KHM",
     "max_vaccine": 26598,
@@ -2370,7 +2369,8 @@
     "vaccine_efficacy_disease": 0.8723,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 115,
@@ -2383,7 +2383,6 @@
     "beta_set_min": 0.0248,
     "beta_set_max": 0.0357,
     "recent_deaths": true,
-    "deaths": 9,
     "Reff": 1.3564,
     "iso3c": "KHM",
     "max_vaccine": 16816,
@@ -2391,7 +2390,8 @@
     "vaccine_efficacy_disease": 0.8736,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 9
   },
   {
     "tt_beta": 116,
@@ -2404,7 +2404,6 @@
     "beta_set_min": 0.0238,
     "beta_set_max": 0.0337,
     "recent_deaths": true,
-    "deaths": 3,
     "Reff": 1.2449,
     "iso3c": "KHM",
     "max_vaccine": 11015,
@@ -2412,7 +2411,8 @@
     "vaccine_efficacy_disease": 0.8755,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 3
   },
   {
     "tt_beta": 117,
@@ -2425,7 +2425,6 @@
     "beta_set_min": 0.0244,
     "beta_set_max": 0.0348,
     "recent_deaths": true,
-    "deaths": 4,
     "Reff": 1.3102,
     "iso3c": "KHM",
     "max_vaccine": 25947,
@@ -2433,7 +2432,8 @@
     "vaccine_efficacy_disease": 0.8763,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 4
   },
   {
     "tt_beta": 118,
@@ -2446,7 +2446,6 @@
     "beta_set_min": 0.0255,
     "beta_set_max": 0.0357,
     "recent_deaths": true,
-    "deaths": 7,
     "Reff": 1.3549,
     "iso3c": "KHM",
     "max_vaccine": 55279,
@@ -2454,7 +2453,8 @@
     "vaccine_efficacy_disease": 0.8766,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 7
   },
   {
     "tt_beta": 119,
@@ -2467,7 +2467,6 @@
     "beta_set_min": 0.0256,
     "beta_set_max": 0.0372,
     "recent_deaths": true,
-    "deaths": 4,
     "Reff": 1.362,
     "iso3c": "KHM",
     "max_vaccine": 56184,
@@ -2475,7 +2474,8 @@
     "vaccine_efficacy_disease": 0.8768,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 4
   },
   {
     "tt_beta": 120,
@@ -2488,7 +2488,6 @@
     "beta_set_min": 0.0273,
     "beta_set_max": 0.0394,
     "recent_deaths": true,
-    "deaths": 2,
     "Reff": 1.5917,
     "iso3c": "KHM",
     "max_vaccine": 46550,
@@ -2496,7 +2495,8 @@
     "vaccine_efficacy_disease": 0.8775,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 2
   },
   {
     "tt_beta": 121,
@@ -2509,7 +2509,6 @@
     "beta_set_min": 0.0278,
     "beta_set_max": 0.0404,
     "recent_deaths": true,
-    "deaths": 7,
     "Reff": 1.6341,
     "iso3c": "KHM",
     "max_vaccine": 49955,
@@ -2517,7 +2516,8 @@
     "vaccine_efficacy_disease": 0.878,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 7
   },
   {
     "tt_beta": 122,
@@ -2530,7 +2530,6 @@
     "beta_set_min": 0.028,
     "beta_set_max": 0.0408,
     "recent_deaths": true,
-    "deaths": 6,
     "Reff": 1.6595,
     "iso3c": "KHM",
     "max_vaccine": 52703,
@@ -2538,7 +2537,8 @@
     "vaccine_efficacy_disease": 0.878,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 6
   },
   {
     "tt_beta": 123,
@@ -2551,7 +2551,6 @@
     "beta_set_min": 0.028,
     "beta_set_max": 0.0408,
     "recent_deaths": true,
-    "deaths": 5,
     "Reff": 1.6584,
     "iso3c": "KHM",
     "max_vaccine": 57845,
@@ -2559,7 +2558,8 @@
     "vaccine_efficacy_disease": 0.8776,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 5
   },
   {
     "tt_beta": 124,
@@ -2572,7 +2572,6 @@
     "beta_set_min": 0.0288,
     "beta_set_max": 0.0421,
     "recent_deaths": true,
-    "deaths": 6,
     "Reff": 1.747,
     "iso3c": "KHM",
     "max_vaccine": 23521,
@@ -2580,7 +2579,8 @@
     "vaccine_efficacy_disease": 0.8779,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 6
   },
   {
     "tt_beta": 125,
@@ -2593,7 +2593,6 @@
     "beta_set_min": 0.0287,
     "beta_set_max": 0.0419,
     "recent_deaths": true,
-    "deaths": 10,
     "Reff": 1.7274,
     "iso3c": "KHM",
     "max_vaccine": 16963,
@@ -2601,7 +2600,8 @@
     "vaccine_efficacy_disease": 0.8784,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 10
   },
   {
     "tt_beta": 126,
@@ -2614,7 +2614,6 @@
     "beta_set_min": 0.0283,
     "beta_set_max": 0.0412,
     "recent_deaths": true,
-    "deaths": 6,
     "Reff": 1.6812,
     "iso3c": "KHM",
     "max_vaccine": 22192,
@@ -2622,7 +2621,8 @@
     "vaccine_efficacy_disease": 0.8788,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 6
   },
   {
     "tt_beta": 127,
@@ -2635,7 +2635,6 @@
     "beta_set_min": 0.0267,
     "beta_set_max": 0.0385,
     "recent_deaths": true,
-    "deaths": 6,
     "Reff": 1.5416,
     "iso3c": "KHM",
     "max_vaccine": 38532,
@@ -2643,7 +2642,8 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2,
+    "deaths": 6
   },
   {
     "tt_beta": 128,
@@ -2663,7 +2663,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 129,
@@ -2683,7 +2683,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 130,
@@ -2703,7 +2703,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 131,
@@ -2723,7 +2723,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 132,
@@ -2743,7 +2743,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 133,
@@ -2763,7 +2763,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 134,
@@ -2783,7 +2783,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 135,
@@ -2803,7 +2803,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 136,
@@ -2823,7 +2823,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 137,
@@ -2843,7 +2843,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 138,
@@ -2863,7 +2863,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 139,
@@ -2883,7 +2883,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 140,
@@ -2903,7 +2903,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 141,
@@ -2923,7 +2923,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 142,
@@ -2943,7 +2943,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 143,
@@ -2963,7 +2963,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 144,
@@ -2983,7 +2983,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 145,
@@ -3003,7 +3003,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 146,
@@ -3023,7 +3023,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 147,
@@ -3043,7 +3043,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 148,
@@ -3063,7 +3063,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 149,
@@ -3083,7 +3083,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 150,
@@ -3103,7 +3103,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 151,
@@ -3123,7 +3123,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 152,
@@ -3143,7 +3143,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 153,
@@ -3163,7 +3163,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 154,
@@ -3183,7 +3183,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 155,
@@ -3203,7 +3203,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 156,
@@ -3223,7 +3223,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 157,
@@ -3243,7 +3243,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 158,
@@ -3263,7 +3263,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 159,
@@ -3283,7 +3283,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 160,
@@ -3303,7 +3303,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 161,
@@ -3323,7 +3323,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 162,
@@ -3343,7 +3343,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 163,
@@ -3363,7 +3363,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 164,
@@ -3383,7 +3383,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 165,
@@ -3403,7 +3403,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 166,
@@ -3423,7 +3423,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 167,
@@ -3443,7 +3443,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 168,
@@ -3463,7 +3463,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 169,
@@ -3483,7 +3483,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 170,
@@ -3503,7 +3503,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 171,
@@ -3523,7 +3523,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 172,
@@ -3543,7 +3543,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 173,
@@ -3563,7 +3563,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 174,
@@ -3583,7 +3583,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 175,
@@ -3603,7 +3603,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 176,
@@ -3623,7 +3623,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 177,
@@ -3643,7 +3643,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 178,
@@ -3663,7 +3663,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 179,
@@ -3683,7 +3683,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 180,
@@ -3703,7 +3703,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 181,
@@ -3723,7 +3723,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 182,
@@ -3743,7 +3743,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 183,
@@ -3763,7 +3763,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 184,
@@ -3783,7 +3783,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 185,
@@ -3803,7 +3803,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 186,
@@ -3823,7 +3823,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 187,
@@ -3843,7 +3843,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 188,
@@ -3863,7 +3863,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 189,
@@ -3883,7 +3883,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 190,
@@ -3903,7 +3903,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 191,
@@ -3923,7 +3923,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 192,
@@ -3943,7 +3943,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 193,
@@ -3963,7 +3963,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 194,
@@ -3983,7 +3983,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 195,
@@ -4003,7 +4003,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 196,
@@ -4023,7 +4023,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 197,
@@ -4043,7 +4043,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 198,
@@ -4063,7 +4063,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 199,
@@ -4083,7 +4083,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 200,
@@ -4103,7 +4103,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 201,
@@ -4123,7 +4123,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 202,
@@ -4143,7 +4143,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 203,
@@ -4163,7 +4163,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 204,
@@ -4183,7 +4183,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 205,
@@ -4203,7 +4203,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 206,
@@ -4223,7 +4223,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 207,
@@ -4243,7 +4243,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 208,
@@ -4263,7 +4263,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 209,
@@ -4283,7 +4283,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 210,
@@ -4303,7 +4303,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 211,
@@ -4323,7 +4323,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 212,
@@ -4343,7 +4343,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 213,
@@ -4363,7 +4363,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 214,
@@ -4383,7 +4383,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 215,
@@ -4403,7 +4403,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 216,
@@ -4423,7 +4423,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 217,
@@ -4443,7 +4443,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 218,
@@ -4463,7 +4463,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 219,
@@ -4483,7 +4483,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 220,
@@ -4503,7 +4503,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 221,
@@ -4523,7 +4523,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 222,
@@ -4543,7 +4543,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 223,
@@ -4563,7 +4563,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 224,
@@ -4583,7 +4583,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 225,
@@ -4603,7 +4603,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 226,
@@ -4623,7 +4623,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 227,
@@ -4643,7 +4643,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 228,
@@ -4663,7 +4663,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 229,
@@ -4683,7 +4683,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 230,
@@ -4703,7 +4703,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 231,
@@ -4723,7 +4723,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 232,
@@ -4743,7 +4743,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 233,
@@ -4763,7 +4763,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 234,
@@ -4783,7 +4783,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 235,
@@ -4803,7 +4803,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 236,
@@ -4823,7 +4823,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 237,
@@ -4843,7 +4843,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 238,
@@ -4863,7 +4863,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 239,
@@ -4883,7 +4883,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 240,
@@ -4903,7 +4903,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 241,
@@ -4923,7 +4923,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 242,
@@ -4943,7 +4943,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 243,
@@ -4963,7 +4963,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 244,
@@ -4983,7 +4983,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 245,
@@ -5003,7 +5003,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 246,
@@ -5023,7 +5023,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 247,
@@ -5043,7 +5043,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 248,
@@ -5063,7 +5063,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 249,
@@ -5083,7 +5083,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 250,
@@ -5103,7 +5103,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 251,
@@ -5123,7 +5123,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 252,
@@ -5143,7 +5143,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 253,
@@ -5163,7 +5163,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 254,
@@ -5183,7 +5183,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 255,
@@ -5203,7 +5203,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 256,
@@ -5223,7 +5223,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 257,
@@ -5243,7 +5243,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 258,
@@ -5263,7 +5263,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 259,
@@ -5283,7 +5283,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 260,
@@ -5303,7 +5303,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 261,
@@ -5323,7 +5323,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 262,
@@ -5343,7 +5343,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 263,
@@ -5363,7 +5363,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 264,
@@ -5383,7 +5383,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 265,
@@ -5403,7 +5403,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 266,
@@ -5423,7 +5423,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 267,
@@ -5443,7 +5443,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 268,
@@ -5463,7 +5463,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 269,
@@ -5483,7 +5483,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 270,
@@ -5503,7 +5503,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 271,
@@ -5523,7 +5523,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 272,
@@ -5543,7 +5543,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 273,
@@ -5563,7 +5563,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 274,
@@ -5583,7 +5583,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 275,
@@ -5603,7 +5603,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 276,
@@ -5623,7 +5623,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 277,
@@ -5643,7 +5643,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 278,
@@ -5663,7 +5663,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 279,
@@ -5683,7 +5683,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 280,
@@ -5703,7 +5703,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 281,
@@ -5723,7 +5723,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 282,
@@ -5743,7 +5743,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 283,
@@ -5763,7 +5763,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 284,
@@ -5783,7 +5783,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 285,
@@ -5803,7 +5803,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 286,
@@ -5823,7 +5823,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 287,
@@ -5843,7 +5843,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 288,
@@ -5863,7 +5863,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 289,
@@ -5883,7 +5883,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 290,
@@ -5903,7 +5903,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 291,
@@ -5923,7 +5923,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 292,
@@ -5943,7 +5943,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 293,
@@ -5963,7 +5963,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 294,
@@ -5983,7 +5983,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 295,
@@ -6003,7 +6003,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 296,
@@ -6023,7 +6023,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 297,
@@ -6043,7 +6043,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 298,
@@ -6063,7 +6063,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 299,
@@ -6083,7 +6083,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 300,
@@ -6103,7 +6103,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 301,
@@ -6123,7 +6123,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 302,
@@ -6143,7 +6143,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 303,
@@ -6163,7 +6163,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 304,
@@ -6183,7 +6183,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 305,
@@ -6203,7 +6203,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 306,
@@ -6223,7 +6223,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 307,
@@ -6243,7 +6243,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 308,
@@ -6263,7 +6263,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 309,
@@ -6283,7 +6283,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 310,
@@ -6303,7 +6303,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 311,
@@ -6323,7 +6323,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 312,
@@ -6343,7 +6343,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 313,
@@ -6363,7 +6363,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 314,
@@ -6383,7 +6383,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 315,
@@ -6403,7 +6403,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 316,
@@ -6423,7 +6423,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 317,
@@ -6443,7 +6443,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 318,
@@ -6463,7 +6463,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 319,
@@ -6483,7 +6483,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 320,
@@ -6503,7 +6503,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 321,
@@ -6523,7 +6523,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 322,
@@ -6543,7 +6543,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 323,
@@ -6563,7 +6563,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 324,
@@ -6583,7 +6583,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 325,
@@ -6603,7 +6603,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 326,
@@ -6623,7 +6623,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 327,
@@ -6643,7 +6643,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 328,
@@ -6663,7 +6663,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 329,
@@ -6683,7 +6683,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 330,
@@ -6703,7 +6703,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 331,
@@ -6723,7 +6723,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 332,
@@ -6743,7 +6743,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 333,
@@ -6763,7 +6763,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 334,
@@ -6783,7 +6783,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 335,
@@ -6803,7 +6803,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 336,
@@ -6823,7 +6823,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 337,
@@ -6843,7 +6843,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 338,
@@ -6863,7 +6863,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 339,
@@ -6883,7 +6883,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 340,
@@ -6903,7 +6903,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 341,
@@ -6923,7 +6923,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 342,
@@ -6943,7 +6943,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 343,
@@ -6963,7 +6963,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 344,
@@ -6983,7 +6983,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 345,
@@ -7003,7 +7003,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 346,
@@ -7023,7 +7023,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 347,
@@ -7043,7 +7043,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 348,
@@ -7063,7 +7063,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 349,
@@ -7083,7 +7083,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 350,
@@ -7103,7 +7103,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 351,
@@ -7123,7 +7123,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 352,
@@ -7143,7 +7143,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 353,
@@ -7163,7 +7163,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 354,
@@ -7183,7 +7183,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 355,
@@ -7203,7 +7203,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 356,
@@ -7223,7 +7223,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 357,
@@ -7243,7 +7243,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 358,
@@ -7263,7 +7263,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 359,
@@ -7283,7 +7283,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 360,
@@ -7303,7 +7303,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 361,
@@ -7323,7 +7323,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 362,
@@ -7343,7 +7343,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 363,
@@ -7363,7 +7363,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 364,
@@ -7383,7 +7383,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 365,
@@ -7403,7 +7403,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 366,
@@ -7423,7 +7423,7 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   },
   {
     "tt_beta": 367,
@@ -7443,6 +7443,6 @@
     "vaccine_efficacy_disease": 0.8,
     "vaccine_strategy": "HCW, Elderly and High-Risk",
     "vaccine_coverage": 0.9738,
-    "vaccines_available": 0
+    "vaccines_available": 0.2
   }
 ]
